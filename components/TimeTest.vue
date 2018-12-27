@@ -32,3 +32,13 @@ export default {
   },
 };
 </script>
+
+<style lang="stylus">
+  @import '../stylus/colors.styl'
+
+  h1
+    background-color: $hg-orange
+    color: white
+    text-align: center
+
+</style>

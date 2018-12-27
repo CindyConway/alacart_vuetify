@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import TimeTest from '../../../src/components/TimeTest.vue';
+import TimeTest from '../../../components/TimeTest.vue';
 
 export default {
   components: {
