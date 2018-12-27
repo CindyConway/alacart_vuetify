@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Time Piker Test</h1>
+      <h1>Time Picker Test</h1>
     <time-test/>
   </div>
 </template>
